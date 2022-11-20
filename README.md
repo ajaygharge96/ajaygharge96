@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaygharge96
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML,CSS,JAVASSCRIPT,REACT
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ajaygharge96@gmail.com
 
